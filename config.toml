@@ -1,0 +1,5 @@
+baseURL = "https://streamingontherocks.com/"
+languageCode = "en-us"
+title = "Streaming on the Rocks"
+
+theme = "hugo-theme-console"
